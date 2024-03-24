@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Seunghun Bang
 - 👀 I’m interested in Frontend Developement mainly!
-- 🌱 I’m currently learning React/React Native/Typescript/NextJS
+- 🌱 I’m currently learning React/React Native/Typescript/NextJS/Kotlin/Java/Spring
 - 📫 To reach me, please send me the email 'upi21x@gmail.com'
 
 <!---
