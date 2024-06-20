@@ -1,3 +1,6 @@
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=a1603169)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=a1603169&layout=compact)
+
 🌱 Skills: React / React Native / Typescript / NextJS / Kotlin / Java / Spring / Azure / GCP
 
 <!---
